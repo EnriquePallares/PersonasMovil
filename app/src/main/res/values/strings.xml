@@ -1,9 +1,16 @@
 <resources>
     <string name="app_name">PersonasMovil</string>
+    <string name="titulo">Registrar</string>
     <string name="cedula">Cedula</string>
     <string name="nombre">Nombre</string>
     <string name="apellido">Apellido</string>
-    <string name="registrar">Registrar</string>
     <string name="guardar">Guardar</string>
     <string name="limpiar">Limpiar</string>
+    <string name="registrar">Registrar</string>
+    <string name="listar">Listar</string>
+
+    <string-array name="opciones">
+        <item>@string/registrar</item>
+        <item>@string/listar</item>
+    </string-array>
 </resources>
